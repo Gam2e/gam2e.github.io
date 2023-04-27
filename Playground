@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>VC SPIKE</title>
+  </head>
+<link rel="stylesheet" href="styles.css">
+  <body>
+    <!-- BLABLA not visible -->
+    <div id="content">
+        <h1>Home</h1>
+        <h2>Team</h2>
+        <h2>News</h2>
+        <h2>Galerie</h2>
+        <h2>Links</h2>
+    </div>
+    <p>
+      <img src="/VC Spike Logo/Logo1.png" alt="VC Spike Logo">
+    </p>
+  </body>
+</html>
